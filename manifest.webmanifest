@@ -1,0 +1,17 @@
+{
+  "name": "Controle de material — SMO/SAOP",
+  "short_name": "SMO Material",
+  "description": "Estoque com lotes e validade, equipamentos e manutenção, pedidos e missões do dia do GBAPH/CBMPE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#152340",
+  "theme_color": "#152340",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "img/gbaph-96.png",  "sizes": "96x96",   "type": "image/png" },
+    { "src": "img/gbaph-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "img/gbaph-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
