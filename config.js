@@ -20,3 +20,7 @@ const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBh
 
 /* Nome da unidade exibido no rodapé. */
 const UNIDADE = "GBAPH / CBMPE — Seção de Material e Operações";
+
+window.SUPABASE_URL      = SUPABASE_URL;
+window.SUPABASE_ANON_KEY = SUPABASE_ANON_KEY;
+window.UNIDADE           = UNIDADE;
